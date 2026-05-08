@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.70.1](https://github.com/aquasecurity/trivy/compare/v0.70.0...v0.70.1) (2026-05-08)
+
+
+### Bug Fixes
+
+* **misconf:** make identifiers in ignore rules case-insensitive ([#10375](https://github.com/aquasecurity/trivy/issues/10375)) ([a75a468](https://github.com/aquasecurity/trivy/commit/a75a468facbff12c81da00742709c88c0a4ad29d))
+* pull instead of clone when test repo already exists ([#10636](https://github.com/aquasecurity/trivy/issues/10636)) ([3a2f7fb](https://github.com/aquasecurity/trivy/commit/3a2f7fb2636189a1f703a509125ee34d5c0b9eaa))
+
 ## [0.70.0](https://github.com/aquasecurity/trivy/compare/v0.69.0...v0.70.0) (2026-04-16)
 
 
